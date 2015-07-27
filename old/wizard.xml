@@ -1,0 +1,18 @@
+<wizard>
+	<name>Sample Wizard</name>
+	<application>Sample Application</application>
+	<pages>
+		<page>
+			<form>org.jwizard.example.forms.Form01</form>
+			<action>org.jwizard.example.actions.Action01</action>
+		</page>
+		<page>
+			<form>org.jwizard.example.forms.Form02</form>
+			<action>org.jwizard.example.actions.Action02</action>
+		</page>
+		<page>
+			<form>org.jwizard.example.forms.Form03</form>
+			<action>org.jwizard.example.actions.Action03</action>
+		</page>
+	</pages>
+</wizard>
